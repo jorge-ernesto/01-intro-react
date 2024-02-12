@@ -1,0 +1,25 @@
+---- Notas ----
+
+4. Instalaciones necesarias y recomendadas
+    - https://gist.github.com/Klerith/4a4abfd88a88b2d1f16efd95fea41362 ----> Instalaciones-React.md
+
+9. Primeros pasos en React
+    - https://gist.github.com/Klerith/b0111f52ba16451d095f38d4c995605b ----> react-index.html
+
+10. Introducción a Babel
+    - https://babeljs.io/ ----> Babel
+
+13. Inicio de proyecto - Bases de JavaScript
+    Documentacion:
+        - https://create-react-app.dev/ ----> Create React App
+
+    Instalacion:
+        - npx create-react-app 02-intro-javascript-en-proyecto-react ----> Crear el proyecto de React sin instalar "create-react-app"
+        - cd 02-intro-javascript-en-proyecto-react
+        - npm start
+
+    Revisar version de React en proyecto "02-intro-javascript-en-proyecto-react"
+        - Revisar package.json -> dependencies -> react
+
+    Eliminamos:
+        - src/*
